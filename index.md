@@ -2,6 +2,5 @@
 layout: home
 ---
 
-# Welcome to My Academic Website
 
-I am a researcher focusing on [your research areas]. This site contains information about my research, publications, and contact information.
+I am an ecosystem ecologist interested in terrestrial carbon cycle (C) and its interactions in the soil-plant-atmosphere continuum.
