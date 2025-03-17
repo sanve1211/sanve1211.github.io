@@ -11,9 +11,9 @@ locale                   : "en-US"
 site_theme               : "default"
 title                    : "Sandeep Thayamkottu"
 title_separator          : "-"
-name                     : &name "Sandeep Thayamkottu"
-description              : &description "Ecosystem ecology"
-url                      : https://sanve1211.github.io # the base hostname & protocol for your site e.g. "https://[sandeep thayamkottu].github.io"
+name                     : &name "Your Name"
+description              : &description "Ecosystem Ecologist"
+url                      : https://sanve1211.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sanve1211/sanve1211.github.io"
 
@@ -22,13 +22,13 @@ repository               : "sanve1211/sanve1211.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : #"profile.png"
-  name             : #"Your Sidebar Name"
+  avatar           : "profile.png"
+  name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
-  bio              : "Ecosystem ecologist"
+  bio              : "Ecosystem Ecologist"
   location         : "Earth"
   employer         : "University of Tartu"
-  uri              : 
+  uri              : # URL
   email            : "sandeep.thayamkottu@ut.ee" 
 
   # Academic websites
@@ -50,7 +50,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : #"sthayamkottu.bsky.social" # Replace this with you Bluesky username
+  bluesky          : "sthayamkottu.bsky.social" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
