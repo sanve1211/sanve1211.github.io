@@ -1,6 +1,6 @@
 ---
 permalink: /
-layout: default
+layout: single
 author_profile: true
 title: "Sandeep Thayamkottu"
 ---
