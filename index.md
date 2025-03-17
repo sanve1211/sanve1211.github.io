@@ -1,9 +1,9 @@
 ---
 permalink: /
-layout: single
+layout: talk
 author_profile: true
 title: "Sandeep Thayamkottu"
 ---
 
 
-I am an ecosystem ecologist interested in terrestrial carbon cycle (C) and its interactions in the soil-plant-atmosphere continuum.
+I am an ecosystem ecologist interested in terrestrial carbon cycle (C).
