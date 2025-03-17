@@ -1,8 +1,7 @@
 ---
 permalink: /
-layout: home
+layout: default
 author_profile: true
-sidebar: true
 title: "Sandeep Thayamkottu"
 ---
 
